@@ -1,4 +1,5 @@
-<h1> KeyAuth-SellerAPI
+<h1 align="center"> KeyAuth-SellerAPI </h1>
+<img src="https://cdn.upload.systems/uploads/W4GLPw1l.png" </img>
 
 ## Prerequisites 
 - KeyAuth seller key (can be found on your keyauth panel)
