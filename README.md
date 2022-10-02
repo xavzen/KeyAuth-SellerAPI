@@ -1,5 +1,7 @@
+<h2 align="center"> Seller API - by xav  <br> <img src="https://cdn.upload.systems/uploads/X71JQj6j.png" </img> 
 
-<h2 align="center"> Seller API - by xav <br> <img src="https://cdn.upload.systems/uploads/X71JQj6j.png" </img>
+## Status
+- [![.NET Core Desktop](https://github.com/xavzen/KeyAuth-SellerAPI/actions/workflows/dotnet-desktop.yml/badge.svg?branch=master)](https://github.com/xavzen/KeyAuth-SellerAPI/actions/workflows/dotnet-desktop.yml)
 
 ## Prerequisites 
 - KeyAuth seller key (can be found on your keyauth panel)
@@ -9,7 +11,6 @@
 - Feel free to contact me if you need assistance
 
 ## Features
-
 * User Control
   - Add new users
   - Ban current users
