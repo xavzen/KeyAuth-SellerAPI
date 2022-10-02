@@ -1,12 +1,5 @@
 
-<h2 align="center"> <img src="https://cdn.upload.systems/uploads/X71JQj6j.png"
-<br>
-SellerAPI - by xav 
-<br>
-
-
-## Screenshot 
-- <img src="https://cdn.upload.systems/uploads/W4GLPw1l.png" 
+<h2 align="center"> Seller API - by xav <br> <img src="https://cdn.upload.systems/uploads/X71JQj6j.png" </img>
 
 ## Prerequisites 
 - KeyAuth seller key (can be found on your keyauth panel)
@@ -65,6 +58,9 @@ SellerAPI - by xav
   - Change program hash check
   - Kill sessions
  
+  ## Screenshot 
+- ![Screenshot](https://cdn.upload.systems/uploads/W4GLPw1l.png)
+  
  ## Credits
 [@lIMonkieIl](https://github.com/lIMonkieIl) - For creating the seller api that I used<br>
 [Keyauth](https://github.com/KeyAuth) - For making all of this possible with their authentication system<br>
