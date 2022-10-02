@@ -1,4 +1,4 @@
-<h2 align="center"> Seller API - by xav  <br> <img src="https://cdn.upload.systems/uploads/X71JQj6j.png" </img> 
+<h2 align="center"> Seller API Panel - by xav  <br> <img src="https://cdn.upload.systems/uploads/X71JQj6j.png" </img> 
 
 ## Status
 - [![.NET Core Desktop](https://github.com/xavzen/KeyAuth-SellerAPI/actions/workflows/dotnet-desktop.yml/badge.svg?branch=master)](https://github.com/xavzen/KeyAuth-SellerAPI/actions/workflows/dotnet-desktop.yml)
